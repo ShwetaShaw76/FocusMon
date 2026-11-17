@@ -2,5 +2,24 @@ body {
     margin: 0;
     padding: 0;
     width: 250px;
-    height: 250px;
+    height: 450px;
+}
+.background{
+    margin: 0;
+    padding: 0;
+    background-image: url(./resources/morning-bg-mob.jpg);
+    height:100%;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.pokemon img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 75px;
+    top:200px;
 }
