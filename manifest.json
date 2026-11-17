@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "name":"FocusMon",
+    "version":"1.0",
+    "description":"A browser extension to focus on productive work",
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "permissions":[]
+}
